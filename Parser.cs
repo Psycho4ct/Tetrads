@@ -103,7 +103,7 @@ namespace laba5
             }
             catch (ArgumentOutOfRangeException)
             {
-                dataGridView1.Rows.Add($"Упс... Кажется чего-то не хватает...");
+                dataGridView1.Rows.Add($"Неправильная форма записи");
                 counter++;
             }
 
@@ -166,7 +166,7 @@ namespace laba5
             }
             catch (ArgumentOutOfRangeException)
             {
-                dataGridView1.Rows.Add($"Упс... Кажется чего-то не хватает...");
+                dataGridView1.Rows.Add($"Неправильная форма записи");
                 counter++;
             }
 
@@ -191,7 +191,7 @@ namespace laba5
             }
             catch (ArgumentOutOfRangeException)
             {
-            dataGridView1.Rows.Add($"Упс... Кажется чего-то не хватает...");
+            dataGridView1.Rows.Add($"Неправильная форма записи");
                 counter++;
             }
 
@@ -265,7 +265,7 @@ namespace laba5
             }
             catch (ArgumentOutOfRangeException)
             {
-                dataGridView1.Rows.Add($"Упс... Кажется чего-то не хватает...");
+                dataGridView1.Rows.Add($"Неправильная форма записи");
                 counter++;
             }
 
@@ -290,7 +290,7 @@ namespace laba5
             }
             catch (ArgumentOutOfRangeException)
             {
-            dataGridView1.Rows.Add($"Упс... Кажется чего-то не хватает...");
+            dataGridView1.Rows.Add($"Неправильная форма записи");
                 counter++;
             }
 
@@ -350,7 +350,7 @@ namespace laba5
             }
             catch (ArgumentOutOfRangeException)
             {
-                dataGridView1.Rows.Add($"Упс... Кажется чего-то не хватает...");
+                dataGridView1.Rows.Add($"Неправильная форма записи");
                 counter++;
             }
 
